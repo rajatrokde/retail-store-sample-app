@@ -4,7 +4,7 @@ metadata:
   name: retail-store-ui
   namespace: argocd
   annotations:
-    argocd.argoproj.io/sync-wave: "2"
+    argocd.argoproj.io/sync-wave: "1"
 spec:
   project: retail-store
   source:
